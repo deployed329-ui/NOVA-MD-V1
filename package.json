@@ -4,9 +4,9 @@
   "description": "A WhatsApp Bot Created By JON-SNOW TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --NOVA-MD V1",
-    "stop": "pm2 stop NOVA-MD V1",
-    "restart": "pm2 restart NOVA-MD V1"
+    "start": "pm2 start index.js --deep-monitoring --attach --NOVA-MD-V1",
+    "stop": "pm2 stop NOVA-MD-V1",
+    "restart": "pm2 restart NOVA-MD-V1"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
